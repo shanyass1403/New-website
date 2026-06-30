@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+  xmlns:fo="http://www.w3.org/1999/XSL/Format"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+
+<url>
+  <loc>https://shanyass1403.github.io/New-website/</loc>
+  <lastmod>2026-06-30T08:53:45+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://shanyass1403.github.io/New-website/index.html</loc>
+  <lastmod>2026-06-30T08:53:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shanyass1403.github.io/New-website/about.html</loc>
+  <lastmod>2026-06-30T08:53:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shanyass1403.github.io/New-website/contact.html</loc>
+  <lastmod>2026-06-30T08:53:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shanyass1403.github.io/New-website/blog.html</loc>
+  <lastmod>2026-06-30T08:53:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shanyass1403.github.io/New-website/product.html</loc>
+  <lastmod>2026-06-30T08:53:45+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+</urlset>
